@@ -1,0 +1,67 @@
+#root,
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 200;
+  text-rendering: optimizeLegibility;
+  background-color: #F8F8FA;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 34px;
+  margin: 5px 0;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 27px;
+  margin: 5px 0;
+}
+
+ul,
+li {
+  list-style: none;
+  padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  opacity: 1;
+  transition: opacity 0.25s ease-in-out;
+}
+
+a:hover {
+  opacity: 0.35;
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+.films-analysis-service {
+  height: 112px;
+  width: 460px;
+  color: #7D7DA7;
+  font-size: 48px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin: auto;
+  padding-top: 132px;
+  padding-bottom: 44px;
+}

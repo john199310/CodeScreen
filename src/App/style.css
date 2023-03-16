@@ -1,0 +1,50 @@
+.director-name-input-box {
+  height: 48px;
+  width: 460px;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  box-shadow: 0 10px 50px 0 rgba(125,125,167,0.1);
+  margin: auto;
+}
+
+.enter-director-name {
+  height: 48px;
+  width: 100%;
+  color: #87878A;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-left: 24px;
+  position: relative;
+  bottom: 3px;
+  border: 0px solid red;
+}
+
+.enter-director-name:focus{
+  outline: none;
+}
+
+.submit-button {
+  height: 40px;
+  width: 138px;
+  border-radius: 10px;
+  background-color: #FFBB4B;
+  box-shadow: 0 10px 50px 0 rgba(255,187,75,0.2);
+  margin: auto;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+.submit-button-text {
+  height: 24px;
+  width: 58px;
+  color: #FFFFFF;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.88px;
+  line-height: 56px;
+  text-align: center;
+  position: relative;
+  bottom: 7px;
+  margin-left: 40px;
+}
